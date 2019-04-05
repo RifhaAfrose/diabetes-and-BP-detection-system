@@ -1,0 +1,8 @@
+Developed by Harshit S K under standard license.
+
+Intilization:
+- Configure database from 'db.php' and admin/inc/ folder
+- Revert the db.sql
+- Need PHP 5.3 Server (Apache prefered) or up
+- MySQL server is needed
+
